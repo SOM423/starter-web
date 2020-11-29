@@ -14,5 +14,7 @@ As stated above, the main purpose is to provide simple examples for git training
 
 ## Deployment
 
+This is a simple web project ,deployment can be on any web browser or even local system.
+
 
 ## How to config
