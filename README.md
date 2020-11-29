@@ -9,7 +9,7 @@ This is example to show different parts of the git repository and various comman
 
 ## Purpose
 
-Sample website with plenty of files for demos
+As stated above, the main purpose is to provide simple examples for git training demo.
 
 
 ## Deployment
