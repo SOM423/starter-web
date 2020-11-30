@@ -3,8 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Somesh Bangad       somesh.bangad@gmail.com
+	
 # THANKS
 
     <name>
