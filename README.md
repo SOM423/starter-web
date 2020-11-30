@@ -19,6 +19,8 @@ This is a simple web project ,deployment can be on any web browser or even local
 
 ## How to config
 
+please fork this repository and the issue pull requestfor review.
+
 ### Copyright
 
 2020 git.training.
